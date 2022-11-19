@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello there 👋, I'm Ishaan Srivastav</h1>
+<h1 align="center">Hello there 👋, Ishaan this side!</h1>
 <h3 align="center">Just a kid exploring this tech world!</h3>
 
 <img align= "right" alt ="Coding" width="400" src= "https://sithcomputers.com/wp-content/uploads/2021/02/11th-and-12th-cs-1.gif">
